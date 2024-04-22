@@ -8,3 +8,4 @@ Design Patterns
 6. CHAIN
 7. VISITOR
 8. STATE
+9. MEMENTO
