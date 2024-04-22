@@ -7,3 +7,4 @@ Design Patterns
 5. DECORATOR
 6. CHAIN
 7. VISITOR
+8. STATE
